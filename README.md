@@ -19,7 +19,6 @@ A modern Flutter-based Medicine Reminder application designed to help users mana
 - Snackbar notifications
 - Smooth animations
 - Professional healthcare design
-
 ---
 ## 🛠️ Tech Stack
 
