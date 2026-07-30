@@ -4,7 +4,6 @@
 A modern Flutter-based Medicine Reminder application designed to help users manage daily medications efficiently. The app provides reminder scheduling, dosage tracking, medicine status updates, and a clean healthcare-inspired UI.
 ---
 ## 📱 Features
-
 - Add medicine reminders
 - Select medicine type
   - Tablet
