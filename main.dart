@@ -6,7 +6,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 void main() => runApp(const MedCareApp());
-
 // ─────────────────────────────────────────────
 //  Root App
 // ─────────────────────────────────────────────
