@@ -25,7 +25,6 @@ A modern Flutter-based Medicine Reminder application designed to help users mana
 - Material Design 3
 ---
 ## 📂 Project Structure
-
 ```text
 lib/
 │
